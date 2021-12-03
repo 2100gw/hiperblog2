@@ -1,3 +1,8 @@
 body{
-    background: aqua;
+    background: rgb(193, 238, 238);
+}
+
+h1{
+    color:brown;
+    text-align: center;
 }
